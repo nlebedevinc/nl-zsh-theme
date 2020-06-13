@@ -1,0 +1,6 @@
+#### joe made this: http://goel.io/joe
+#### jekyll ####
+_site/
+.sass-cache/
+.jekyll-metadata
+assets/
